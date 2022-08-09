@@ -1,0 +1,40 @@
+/*
+<head>
+  <link rel="stylesheet" href="/Users/naromieaugustin/Documents/16-week/UX_UI_HW_17/CSS/style.css">
+</head> 
+*/
+body {
+ background-color: antiquewhite;
+}
+.inline-block{
+  vertical-align: top;
+  display: inline-block;
+}
+
+.logo {
+  width: 23%;
+  padding: 1%;
+  text-align:center;
+}
+
+nav {
+  width: 60%;
+  padding: 1%;
+  text-align: right;
+}
+
+.nav_item {
+  width: 50%;
+  margin-left:auto;
+  
+}
+
+.herocontent{
+  display: inline-block;
+  width: 40%;
+
+}
+
+.footer-nav {
+  width: 100%;
+}
